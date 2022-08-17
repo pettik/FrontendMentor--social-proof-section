@@ -6,8 +6,8 @@
 
 The challenge is to build out this social proof section and get it looking as close to the design as possible.
 
-## My solution:
+## My solution (desktop version 💻):
 <img src="desktop-preview.png" alt="desktop-preview">
 
-## Mobile preview
+## My solution (mobile version 📱):
 <img src="mobile-preview.png" alt="mobile-preview">
